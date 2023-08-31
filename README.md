@@ -1,3 +1,3 @@
 Projeto base para fazer os slides para os cultos da Igreja Presbiteriana de Cachoeirinha
 
-Desenvolvido com Reveal.js
+Desenvolvido com Reveal.js e Tailwindcss
